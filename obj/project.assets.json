@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/Users/azizjon/.nuget/packages/": {}
+    "/Users/user/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/azizjon/Projects/lesson3/lesson3.csproj",
+      "projectUniqueName": "/Users/user/Documents/AlifLessonFour/market/alifAcademyMiniMarket/lesson3.csproj",
       "projectName": "lesson3",
-      "projectPath": "/Users/azizjon/Projects/lesson3/lesson3.csproj",
-      "packagesPath": "/Users/azizjon/.nuget/packages/",
-      "outputPath": "/Users/azizjon/Projects/lesson3/obj/",
+      "projectPath": "/Users/user/Documents/AlifLessonFour/market/alifAcademyMiniMarket/lesson3.csproj",
+      "packagesPath": "/Users/user/.nuget/packages/",
+      "outputPath": "/Users/user/Documents/AlifLessonFour/market/alifAcademyMiniMarket/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/azizjon/.nuget/NuGet/NuGet.Config"
+        "/Users/user/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

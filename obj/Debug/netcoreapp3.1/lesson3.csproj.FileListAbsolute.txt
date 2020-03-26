@@ -8,3 +8,13 @@
 /Users/azizjon/Projects/lesson3/obj/Debug/netcoreapp3.1/lesson3.AssemblyInfo.cs
 /Users/azizjon/Projects/lesson3/obj/Debug/netcoreapp3.1/lesson3.dll
 /Users/azizjon/Projects/lesson3/obj/Debug/netcoreapp3.1/lesson3.pdb
+/Users/user/Documents/AlifLessonFour/market/alifAcademyMiniMarket/bin/Debug/netcoreapp3.1/lesson3.deps.json
+/Users/user/Documents/AlifLessonFour/market/alifAcademyMiniMarket/bin/Debug/netcoreapp3.1/lesson3.runtimeconfig.json
+/Users/user/Documents/AlifLessonFour/market/alifAcademyMiniMarket/bin/Debug/netcoreapp3.1/lesson3.runtimeconfig.dev.json
+/Users/user/Documents/AlifLessonFour/market/alifAcademyMiniMarket/bin/Debug/netcoreapp3.1/lesson3.dll
+/Users/user/Documents/AlifLessonFour/market/alifAcademyMiniMarket/bin/Debug/netcoreapp3.1/lesson3.pdb
+/Users/user/Documents/AlifLessonFour/market/alifAcademyMiniMarket/obj/Debug/netcoreapp3.1/lesson3.csprojAssemblyReference.cache
+/Users/user/Documents/AlifLessonFour/market/alifAcademyMiniMarket/obj/Debug/netcoreapp3.1/lesson3.AssemblyInfoInputs.cache
+/Users/user/Documents/AlifLessonFour/market/alifAcademyMiniMarket/obj/Debug/netcoreapp3.1/lesson3.AssemblyInfo.cs
+/Users/user/Documents/AlifLessonFour/market/alifAcademyMiniMarket/obj/Debug/netcoreapp3.1/lesson3.dll
+/Users/user/Documents/AlifLessonFour/market/alifAcademyMiniMarket/obj/Debug/netcoreapp3.1/lesson3.pdb
